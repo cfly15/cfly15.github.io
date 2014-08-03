@@ -1,4 +1,3 @@
-cfly15.github.io
-================
+## Jumpstart
 
-Personal Webstie
+See our [documentation](http://github.differential.io/jumpstart)
