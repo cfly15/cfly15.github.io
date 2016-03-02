@@ -1,3 +1,1 @@
-## Jumpstart
-
-See our [documentation](http://github.differential.io/jumpstart)
+## Be the change
